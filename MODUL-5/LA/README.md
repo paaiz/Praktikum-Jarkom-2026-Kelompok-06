@@ -13,12 +13,12 @@
 # Topologi Jaringan
 
 # Tugas Modul 1 - Konfigurasi Cisco Switch Jakarta
-!(TUGAS_MODUL/tumod1_01.jpg)
-!(TUGAS_MODUL/tumod1_02.jpg)
+![tumod1 no 1](TUGAS_MODUL/tumod1_01.jpg)
+![tumod1 no 2](TUGAS_MODUL/tumod1_02.jpg)
 
 # Tugas Modul 2 - Konfigurasi Cisco Router Jakarta
-!(TUGAS_MODUL/tumod2_01.jpg)
-!(TUGAS_MODUL/tumod2_02.jpg)
+![tumod2 no 1](TUGAS_MODUL/tumod2_01.jpg)
+![tumod2 no 2](TUGAS_MODUL/tumod2_02.jpg)
 
 # Tugas Modul 3 - Konfigurasi MikroTik Router Jakarta
 
@@ -29,8 +29,8 @@
 # Tugas Modul 6 - Konfigurasi MikroTik ISP
 
 # Tugas Modul 7 - Konfigurasi Switch dan MikroTik Surabaya
-!(TUGAS_MODUL/tumod7_01.jpg)
-!(TUGAS_MODUL/tumod7_02.jpg)
+![tumod7 no 1](TUGAS_MODUL/tumod7_01.jpg)
+![tumod7 no 2](TUGAS_MODUL/tumod7_02.jpg)
 
 # Tugas Modul 8 — Konfigurasi FortiGate Surabaya
 
