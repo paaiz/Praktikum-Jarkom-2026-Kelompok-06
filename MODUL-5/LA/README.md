@@ -1,4 +1,4 @@
-# Tugas Modul 4 - Firewall & NAT
+# Tugas Modul 5 Vlan-Trunk-OSPF-MultiVendor
 
 ## Anggota Kelompok
 
@@ -11,7 +11,6 @@
 ---
 
 # Topologi Jaringan
-![Topologi](TUGAS_MODUL/Topologi_Tumod_5.jpg)
 
 # Tugas Modul 1 - Konfigurasi Cisco Switch Jakarta
 
