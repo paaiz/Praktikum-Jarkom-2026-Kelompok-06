@@ -11,6 +11,7 @@
 ---
 
 # Topologi Jaringan
+![Topologi](TUGAS_MODUL/Topologi_Tumod_5.jpg)
 
 # Tugas Modul 1 - Konfigurasi Cisco Switch Jakarta
 
