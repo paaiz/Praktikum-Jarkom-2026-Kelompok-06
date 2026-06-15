@@ -40,6 +40,10 @@ Tugas Modul 10 No 1, 3, 5, 6, 7, 8
 ![tumod3 no 5](TUGAS_MODUL/tumod3_05.jpg)
 
 # Tugas Modul 4 - Konfigurasi Ubuntu Server Jakarta
+## 4.1
+## 4.2
+## 4.3
+## 4.4
 
 # Tugas Modul 5 - Konfigurasi FortiGate Jakarta
 ## 5.1
@@ -50,6 +54,9 @@ Tugas Modul 10 No 1, 3, 5, 6, 7, 8
 ![tumod5 no 3](TUGAS_MODUL/tumod5_03.jpg)
 ## 5.4
 ![tumod5 no 4](TUGAS_MODUL/tumod5_04.jpg)
+## 5.5
+## 5.6
+## 5.7
 
 # Tugas Modul 6 - Konfigurasi MikroTik ISP
 ## 6.1-6.4
@@ -72,21 +79,33 @@ Tugas Modul 10 No 1, 3, 5, 6, 7, 8
 # Tugas Modul 8 — Konfigurasi FortiGate Surabaya
 ## 8.1
 ![tumod8 no 1](TUGAS_MODUL/tumod8_01.jpg)
+## 8.2
 ## 8.3
 ![tumod8 no 3](TUGAS_MODUL/tumod8_03.jpg)
 ## 8.4
 ![tumod8 no 4](TUGAS_MODUL/tumod8_04.jpg)
 ## 8.5
-![tumod8 no 5](TUGAS_MODUL/tumod8_05.jpg)
+## 8.6
+## 8.7
 
 # Tugas Modul 9 — Konfigurasi GRE Tunnel dan OSPF over GRE
 ## 9.1
 ![tumod9 no 1](TUGAS_MODUL/tumod9_01.jpg)
-## 9.1
 ![tumod9 no 1b](TUGAS_MODUL/tumod9_01b.jpg)
+## 9.2
+## 9.3
+## 9.4
+## 9.5
+## 9.6
 
 # Tugas Modul 10 — Pengujian Akhir
+## 10.1
 ## 10.2
 ![tumod10 no 2](TUGAS_MODUL/tumod10_02.jpg)
+## 10.3
 ## 10.4
 ![tumod10 no 4](TUGAS_MODUL/tumod10_04.jpg)
+## 10.5
+## 10.6
+## 10.7
+## 10.8
