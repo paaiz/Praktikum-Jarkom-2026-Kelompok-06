@@ -9,11 +9,8 @@
 | Roos Habib Faiz Dzaki               | 5024241079 |
 
 ## Belum Lengkap
-Tugas Modul 4 No 1, 2, 3, 4
-Tugas Modul 5 No 5, 6, 7
-Tugas Modul 8 No 2, 5, 6, 7
-Tugas Modul 9 No 2, 3, 4, 5, 6
-Tugas Modul 10 No 1, 3, 5, 6, 7, 8
+### Tugas Modul 9 No 5, 6
+### Tugas Modul 10 No 5, 6, 7, 8
 
 # Tugas Modul 1 - Konfigurasi Cisco Switch Jakarta
 ## 1.1
@@ -41,9 +38,13 @@ Tugas Modul 10 No 1, 3, 5, 6, 7, 8
 
 # Tugas Modul 4 - Konfigurasi Ubuntu Server Jakarta
 ## 4.1
+![tumod4 no 1](TUGAS_MODUL/tumod4_01.jpg)
 ## 4.2
+![tumod4 no 2](TUGAS_MODUL/tumod4_02.jpg)
 ## 4.3
+![tumod4 no 3](TUGAS_MODUL/tumod4_03.jpg)
 ## 4.4
+![tumod4 no 4](TUGAS_MODUL/tumod4_04.jpg)
 
 # Tugas Modul 5 - Konfigurasi FortiGate Jakarta
 ## 5.1
@@ -54,9 +55,8 @@ Tugas Modul 10 No 1, 3, 5, 6, 7, 8
 ![tumod5 no 3](TUGAS_MODUL/tumod5_03.jpg)
 ## 5.4
 ![tumod5 no 4](TUGAS_MODUL/tumod5_04.jpg)
-## 5.5
-## 5.6
-## 5.7
+## 5.5 - 5.7
+![tumod5 no 5-7](TUGAS_MODUL/tumod5_05-07.jpg)
 
 # Tugas Modul 6 - Konfigurasi MikroTik ISP
 ## 6.1-6.4
@@ -80,29 +80,33 @@ Tugas Modul 10 No 1, 3, 5, 6, 7, 8
 ## 8.1
 ![tumod8 no 1](TUGAS_MODUL/tumod8_01.jpg)
 ## 8.2
+![tumod8 no 2](TUGAS_MODUL/tumod8_02.jpg)
 ## 8.3
 ![tumod8 no 3](TUGAS_MODUL/tumod8_03.jpg)
 ## 8.4
 ![tumod8 no 4](TUGAS_MODUL/tumod8_04.jpg)
 ## 8.5
-## 8.6
-## 8.7
+![tumod8 no 5](TUGAS_MODUL/tumod8_05.jpg)
+## 8.6-8.7
+![tumod8 no 6-7](TUGAS_MODUL/tumod8_06-07.jpg)
 
 # Tugas Modul 9 — Konfigurasi GRE Tunnel dan OSPF over GRE
 ## 9.1
 ![tumod9 no 1](TUGAS_MODUL/tumod9_01.jpg)
 ![tumod9 no 1b](TUGAS_MODUL/tumod9_01b.jpg)
-## 9.2
-## 9.3
-## 9.4
+## 9.2-9.4
+![tumod9 no 2-4](TUGAS_MODUL/tumod8_02-04a.jpg)
+![tumod9 no 2-4](TUGAS_MODUL/tumod8_02-04b.jpg)
 ## 9.5
 ## 9.6
 
 # Tugas Modul 10 — Pengujian Akhir
 ## 10.1
+![tumod10 no 1](TUGAS_MODUL/tumod10_01.jpg)
 ## 10.2
 ![tumod10 no 2](TUGAS_MODUL/tumod10_02.jpg)
 ## 10.3
+![tumod10 no 3](TUGAS_MODUL/tumod10_03.jpg)
 ## 10.4
 ![tumod10 no 4](TUGAS_MODUL/tumod10_04.jpg)
 ## 10.5
