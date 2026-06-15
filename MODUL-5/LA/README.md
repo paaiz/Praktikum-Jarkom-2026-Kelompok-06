@@ -9,8 +9,8 @@
 | Roos Habib Faiz Dzaki               | 5024241079 |
 
 ## Belum Lengkap
-### Tugas Modul 9 No 5, 6
-### Tugas Modul 10 No 5, 6, 7, 8
+#### Tugas Modul 9 No 5, 6
+#### Tugas Modul 10 No 5, 6, 7, 8
 
 # Tugas Modul 1 - Konfigurasi Cisco Switch Jakarta
 ## 1.1
