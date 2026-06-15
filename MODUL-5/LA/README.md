@@ -95,8 +95,8 @@
 ![tumod9 no 1](TUGAS_MODUL/tumod9_01.jpg)
 ![tumod9 no 1b](TUGAS_MODUL/tumod9_01b.jpg)
 ## 9.2-9.4
-![tumod9 no 2-4](TUGAS_MODUL/tumod8_02-04a.jpg)
-![tumod9 no 2-4](TUGAS_MODUL/tumod8_02-04b.jpg)
+![tumod9 no 2-4](TUGAS_MODUL/tumod9_02-04a.jpg)
+![tumod9 no 2-4](TUGAS_MODUL/tumod9_02-04b.jpg)
 ## 9.5
 ## 9.6
 
