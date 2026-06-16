@@ -8,10 +8,6 @@
 | Nayaka Shafarrel Razaan Nalaprassya | 5024241057 |
 | Roos Habib Faiz Dzaki               | 5024241079 |
 
-## Belum Lengkap
-#### Tugas Modul 9 No 5, 6
-#### Tugas Modul 10 No 5, 6, 7, 8
-
 # Tugas Modul 1 - Konfigurasi Cisco Switch Jakarta
 ## 1.1
 ![topologi](TUGAS_MODUL/Topologi_Tumod_5.jpg)
@@ -98,7 +94,9 @@
 ![tumod9 no 2-4](TUGAS_MODUL/tumod9_02-04a.jpg)
 ![tumod9 no 2-4](TUGAS_MODUL/tumod9_02-04b.jpg)
 ## 9.5
+![tumod9 no 5](TUGAS_MODUL/tumod9_05.jpg)
 ## 9.6
+![tumod9 no 6](TUGAS_MODUL/tumod9_06.jpg)
 
 # Tugas Modul 10 — Pengujian Akhir
 ## 10.1
@@ -110,6 +108,10 @@
 ## 10.4
 ![tumod10 no 4](TUGAS_MODUL/tumod10_04.jpg)
 ## 10.5
+![tumod10 no 5](TUGAS_MODUL/tumod10_05.jpg)
 ## 10.6
+![tumod10 no 6](TUGAS_MODUL/tumod10_06.jpg)
 ## 10.7
+![tumod10 no 7](TUGAS_MODUL/tumod10_07.jpg)
 ## 10.8
+![tumod10 no 8](TUGAS_MODUL/tumod10_08.jpg)
